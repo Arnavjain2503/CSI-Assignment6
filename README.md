@@ -54,9 +54,8 @@ npm install
 
 # 3. Run the development server
 npm run dev   # or use npm start for production
-
-Server runs on:
-👉 http://localhost:5000
+```
+- Server runs on: 👉 http://localhost:5000
 
 | Method | Endpoint            | Description          |
 | ------ | ------------------- | -------------------- |
