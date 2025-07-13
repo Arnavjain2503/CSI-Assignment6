@@ -86,11 +86,11 @@ All endpoints were tested using Postman, including:
 
 | Operation                 | Screenshot                                                  |
 |---------------------------|-------------------------------------------------------------|
-| ✅ GET all products        | ![GET all](screenshots/getallproducts.png)                  |
-| ✅ GET product by ID       | ![GET by ID](screenshots/getproductbyid.png)                          |
-| ✅ Product found response  | ![Found](screenshots/found.png)                   |
-| ✅ POST Add new product        | ![Create](screenshots/createnewproduct.png)                 |
-| ✅ POST response           | ![Created](screenshots/created.png)                         |
+| ✅ GET all products        | ![GET all](screenshots/getallproducts.png)             |
+| ✅ POST Add new product    | ![Create](screenshots/createnewproduct.png)                 |
+| ✅ POST response           | ![Created](screenshots/created.png)                         | 
+| ✅ GET product by ID       | ![GET by ID](screenshots/getproductbyid.png)                |
+| ✅ Product found response  | ![Found](screenshots/found.png)                             |
 | ✅ PUT update product      | ![Update](screenshots/updateproduct.png)                    |
 | ✅ PUT response            | ![Updated](screenshots/updated.png)                         |
 | ✅ DELETE product request  | ![Delete](screenshots/deleteproduct.png)                    |
