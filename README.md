@@ -83,14 +83,17 @@ All endpoints were tested using Postman, including:
 ✅ Real-time updates in the in-memory product list
 
 ## 📸 Screenshots
-Below are screenshots demonstrating each tested operation:
 
-✅ GET all products – Returns a list of all current products
+| Operation                 | Screenshot                                                  |
+|---------------------------|-------------------------------------------------------------|
+| ✅ GET all products        | ![GET all](screenshots/getallproducts.png)                  |
+| ✅ GET product by ID       | ![GET by ID](screenshots/getproductbyid.png)                |
+| ✅ POST new product        | ![Create](screenshots/createnewproduct.png)                 |
+| ✅ POST response           | ![Created](screenshots/created.png)                         |
+| ✅ PUT update product      | ![Update](screenshots/updateproduct.png)                    |
+| ✅ PUT response            | ![Updated](screenshots/updated.png)                         |
+| ✅ DELETE product request  | ![Delete](screenshots/deleteproduct.png)                    |
+| ✅ DELETE confirmation     | ![Deleted](screenshots/deleted.png)                         |
+| ✅ Product found response  | ![Found](screenshots/found.png)                             |
 
-✅ GET product by ID – Returns a specific product
-
-✅ POST new product – Creates a product with name and price
-
-✅ PUT update product – Updates an existing product
-
-✅ DELETE product – Deletes the specified product
+---
