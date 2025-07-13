@@ -42,7 +42,7 @@ product-api/
 ├── .gitignore             # Ignore node_modules & env
 ├── package.json           # Scripts and dependencies
 └── README.md              # Project overview
-
+```
 ## ⚙️ Installation & Running the Server
 
 ```bash
